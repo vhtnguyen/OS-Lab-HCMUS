@@ -1,5 +1,6 @@
 # Operating system - Hệ điều hành 20_3
 
+<div align="center">
 <table  border="2">
   <tr>
     <th style="text-align: center" colspan="4">Yêu cầu</th>
@@ -59,4 +60,5 @@
     <td >concatenate</td>
   </tr>
 </table>
+</div>
 
